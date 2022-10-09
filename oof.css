@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+.heading{
+    background-color: grey;
+    color: royalblue;
+    font-family: 'Gideon Roman', cursive;
+}
+.heading p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.main-div{
+    color: white;
+    background-color: black;
+    
+}
+.main-div button{
+    font-family:'Redressed', cursive ;
+    font-size: 18px;
+    width: 130px;
+    background-color:red;
+    color: greenyellow;
+    letter-spacing: 2px;
+}
+.copyright{
+    color: grey;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3px;
+    bottom: 0;
+    position: fixed;
+    background-color: cyan;
+    text-shadow: 5px 5px 5px gray;
+}
